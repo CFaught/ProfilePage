@@ -16,15 +16,15 @@ a:hover {
   text-decoration: underline;
 }
 
-p.main {
+p {
   float: left;
   text-align: left;
 }
 
 img {
   float: right;
-  height: 320;
-  width: 240;
+  height: 320px;
+  width: 240px;
 }
 
 footer {
