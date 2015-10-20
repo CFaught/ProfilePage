@@ -1,11 +1,29 @@
-body{
+body {
   background: #1c3d5b;
   color: #ADD8E6;
   text-align: center;
 }
 
+a {
+  text-decoration: none;
+}
+
+a:visited {
+  color: #ADD8E6;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+p.main {
+  float: left;
+}
+
 img {
   float: right;
+  height: 320;
+  width: 240;
 }
 
 footer {
