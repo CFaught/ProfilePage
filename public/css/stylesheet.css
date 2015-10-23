@@ -9,6 +9,10 @@ header main footer {
   overflow: auto;
 }
 
+header .container, main .container, footer .container {
+  max-width: 855px;
+}
+
 header h1 {
   float: left;
   width: 570px;
@@ -35,12 +39,13 @@ a:hover {
 p.objective {
   float: left;
   text-align: left;
+  width: 570px;
 }
 
 img {
   float: right;
-  height: 240px;
-  width: 240px;
+  height: 285px;
+  width: 285px;
 }
 
 footer {
