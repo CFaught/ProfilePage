@@ -10,6 +10,7 @@ header main footer {
 }
 
 header .container, main .container, footer .container {
+  margin: auto;
   max-width: 855px;
 }
 
