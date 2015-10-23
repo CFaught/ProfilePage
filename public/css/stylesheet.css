@@ -4,7 +4,23 @@ body {
   text-align: center;
 }
 
+header main footer {
+  min-width: 855px;
+  overflow: auto;
+}
+
+header h1 {
+  float: left;
+  width: 570px;
+}
+
+nav {
+  float: right;
+  width: 285px;
+}
+
 a {
+  color: #ADD8E6;
   text-decoration: none;
 }
 
